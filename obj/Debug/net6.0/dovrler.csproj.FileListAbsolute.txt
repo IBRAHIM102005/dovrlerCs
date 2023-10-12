@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ibrahim C#\dovrler\bin\Debug\net6.0\dovrler.exe
+C:\Users\HP\Desktop\ibrahim C#\dovrler\bin\Debug\net6.0\dovrler.deps.json
+C:\Users\HP\Desktop\ibrahim C#\dovrler\bin\Debug\net6.0\dovrler.runtimeconfig.json
+C:\Users\HP\Desktop\ibrahim C#\dovrler\bin\Debug\net6.0\dovrler.dll
+C:\Users\HP\Desktop\ibrahim C#\dovrler\bin\Debug\net6.0\dovrler.pdb
+C:\Users\HP\Desktop\ibrahim C#\dovrler\obj\Debug\net6.0\dovrler.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ibrahim C#\dovrler\obj\Debug\net6.0\dovrler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ibrahim C#\dovrler\obj\Debug\net6.0\dovrler.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ibrahim C#\dovrler\obj\Debug\net6.0\dovrler.AssemblyInfo.cs
+C:\Users\HP\Desktop\ibrahim C#\dovrler\obj\Debug\net6.0\dovrler.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ibrahim C#\dovrler\obj\Debug\net6.0\dovrler.dll
+C:\Users\HP\Desktop\ibrahim C#\dovrler\obj\Debug\net6.0\refint\dovrler.dll
+C:\Users\HP\Desktop\ibrahim C#\dovrler\obj\Debug\net6.0\dovrler.pdb
+C:\Users\HP\Desktop\ibrahim C#\dovrler\obj\Debug\net6.0\dovrler.genruntimeconfig.cache
+C:\Users\HP\Desktop\ibrahim C#\dovrler\obj\Debug\net6.0\ref\dovrler.dll
